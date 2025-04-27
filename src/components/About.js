@@ -82,8 +82,8 @@ const About = () => {
                                 <a href="https://github.com/Abhinay1999-creator" target="abhi">Github</a> <br />
                                 <a href="https://www.linkedin.com/in/abhinay-bhosale-b44334140/" target="abhi">Linkedin</a> <br />
                                 <a href="https://www.linkedin.com/posts/abhinay-bhosale-b44334140_ecommerce-reactjs-tailwindcss-activity-7191451324113162240-k8Ys?utm_source=share&utm_medium=member_desktop/" target="abhi">Ecommerce App</a><br />
-                                <a href="https://www.youtube.com/channel/UCwfaAHy4zQUb2APNOGXUCCA" target="abhi">Portfolio App</a> <br />                    
-               
+                                <a href="https://portfolio-web-phi-inky.vercel.app/" target="abhi">Portfolio App</a> <br />                    
+                                <a href="https://restaurantapp-rust.vercel.app/" target="resto">Restaurant App</a> <br />                    
                             </div>
                         </div> 
 
